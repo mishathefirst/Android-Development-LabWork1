@@ -15,11 +15,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_three);
+        setContentView(R.layout.activity_four);
         setTitle(R.string.title_one);
 
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
+
 
         /*
         CheckBox checkBox =

@@ -36,4 +36,15 @@
     количество бонусов к аннулированию<br> </br>уменьшится на количество<br> </br>бонусов</string>
     <string name="empty_space"> </string>
 
+
+
+    <string name="settings_header">Настройки</string>
+    <string name="sw_push_notification">Push-уведомления</string>
+    <string name="sw_city_definition">Определять город автоматически</string>
+    <string name="sw_fingertip_entry">Вход по отпечатку пальца</string>
+    <string name="button_auth_set_null">Сбросить авторизацию</string>
+    <string name="info_bottom">Версия приложения 4.41.2</string>
+
+
+
 </resources>

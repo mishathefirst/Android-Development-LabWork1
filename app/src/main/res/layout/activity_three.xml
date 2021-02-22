@@ -104,7 +104,7 @@
         android:text="@string/info_text"
         android:textColor="@color/grey"
         android:textSize="12sp"
-        android:drawableRight="@drawable/ic_forward_icon"
+        android:drawableEnd="@drawable/ic_edit"
         >
 
     </TextView>
