@@ -22,4 +22,18 @@
     <string name="get_code_text">Получить код</string>
     <string name="agreement_activity_two">При входе вы соглашаетесь <a href="link">с условиями</a></string>
 
+
+
+
+
+
+    <string name="profile_title">Профиль</string>
+    <string name="email_header">Email</string>
+    <string name="email_invitation">Укажите e-mail</string>
+    <string name="password_header">Ваш пароль для контакт-центра</string>
+    <string name="password">D9E6F</string>
+    <string name="info_text">Бонусы к аннулированию в феврале (на<br> </br>основании расчётов от 25.01.2021): <br> </br>Если вы производили списания в феврале,<br> </br>
+    количество бонусов к аннулированию<br> </br>уменьшится на количество<br> </br>бонусов</string>
+    <string name="empty_space"> </string>
+
 </resources>

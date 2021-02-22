@@ -1,5 +1,6 @@
 package group.moveon.mobilelabwork1;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -14,8 +15,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_one);
+        setContentView(R.layout.activity_three);
         setTitle(R.string.title_one);
+
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.hide();
 
         /*
         CheckBox checkBox =
