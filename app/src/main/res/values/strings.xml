@@ -11,4 +11,15 @@
     <string name="comment_hint">Комментарий</string>
     <string name="agreement_text">Я даю согласие на обработку своих <br> </br>персональных данных. С <a href="link">политикой обеспечения<br> </br>безопасности</a>
         персональных данных САО <br> </br>"РЕСО-Гарантия" ознакомлен.</string>
+
+
+
+
+
+    <string name="entry_welcoming">войти или <br> </br>зарегистрироваться</string>
+    <string name="instruction_text">Мы отправим на номер SMS-сообщение <br> </br>с кодом подтверждения</string>
+    <string name="phone_number_hint_activity_two">+7 (___) ___ - __ - __</string>
+    <string name="get_code_text">Получить код</string>
+    <string name="agreement_activity_two">При входе вы соглашаетесь <a href="link">с условиями</a></string>
+
 </resources>
